@@ -14,7 +14,7 @@
     "youtube-dl",
     "leecher"
   ],
-  "repository": "https://github.com/SpEcHiDe/PublicLeech",
+  "repository": "https://github.com/Sanuw45/Public-Telegram-Leech",
   "success_url": "https://telegram.dog/ThankTelegram",
   "website": "https://github.com/SpEcHiDe/PublicLeech",
   "env": {
